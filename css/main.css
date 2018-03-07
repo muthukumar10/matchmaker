@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding: 0;
+}
+.header{
+	
+	padding: 1%;
+	background: #000000;
+	color: #ffffff;
+}
+.logo{
+	font-weight: bold;
+	font-size: 16px;	
+	line-height: 40px;
+}
+
+.header_matchcount {
+	margin-right: 25px;
+	padding-top: 8px;
+	font-size: 20px;
+}
+.header_right{	
+	float:left;
+	width:50%;
+}
+.header_stats{	
+	float:left;
+	width:50%;
+}
+.header_logout{	
+	float:left;
+	width:50%;
+}
+.container {
+    width: 100%;
+}
+
+/* Page Sections */
+.section,
+.section-colored {
+    padding: 1%;
+    border: 1px solid #ccc;
+}
+
